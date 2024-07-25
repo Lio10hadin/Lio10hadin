@@ -3,8 +3,7 @@ Hi i am Hadin
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 haadinhameed@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Lio10hadin/Lio10hadin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
